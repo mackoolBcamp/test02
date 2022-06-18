@@ -1,3 +1,5 @@
 errores de github
-https://stackoverflow.com/questions/41546140/permission-denied-for-git-init.
-marcando errores
+https://stackoverflow.com/questions/41546140/permission-denied-for-git-i
+
+
+nuevo cambios
